@@ -1,0 +1,80 @@
+{
+    
+    "home": {
+        "h1": "Sourcing produce for businesses just got easier.",
+        "h2": "The leading produce business marketplace for all grades of produce, including surplus & off-grade.",
+        "button": "Join for Free"
+    },
+    
+    "selectus": {
+            "h1": "Why produce buyers love us",
+            "itm1h1": "Operational Efficiencies",
+            "itm1h2": "Quickly see what produce is available and at what price. Save up to 95% of your time sourcing organic and conventional produce.",
+            "itm2h1": "Bottom Line Improvements",
+            "itm2h2": "Competitive pricing from a nationwide network of top-tier growers in one central online marketplace. Fulfill contract and spot buy needs by sourcing in minutes.",
+            "itm3h1": "Sustainability Goals",
+            "itm3h2": "Reduce the environmental carbon footprint of your supply chain by purchasing from the world's largest selection of imperfect and surplus produce.",
+            "itm4h1": "All Grades of Produce",
+            "itm4h2": "The leading B2B produce marketplace, helping you to buy your entire business's produce needs all in one place- from USDA Grade 1 to off-grade produce."
+
+    },
+
+    "featured": {
+        "h1": "Featured in",
+        "p": "“At Farm Roots our vision is a world where there is 0% food waste and 100% 'full harvests', where all edible produce grown goes towards consumption. We aim to reinvent the produce supply chain with technology to bring the industry online for the first time ever and maximize resources.”"
+    },
+    
+    
+    "body": {
+        "h1": "Sell your products directly to thousands of businesses",
+        "h2": "Your single source to a nationwide network of buyers looking to purchase fresh produce",
+        "button": "Join for Free"
+    },
+
+    "benefits": {
+        "h1": "Why product sellers choose us ?",
+        
+        "card1h1": "Sell more , earn more",
+        "card1h2": "Our growers have increased profits on produce by up to 12% by helping them sell their entire crop, not just USDA Grade 1.",
+
+         "card2h1": "To connect with a buyer quickly",
+        "card2h2": "Instant access to thousands of product buyers 24/7 from your phone or laptop.",
+
+         "card3h1": "Publish easily online",
+        "card3h2": "Set up your profile and sell all your products in one place in minutes",
+
+         "card4h1": "All quality products",
+        "card4h2": "Buyers in our network buy all product grades: USDA #1, surplus and out of grade."
+    },
+
+    "SellersBuyers": {
+        "mainH1": "Product, data, and documentation all in one place",
+        "mainP": "Let technology make things easier."
+    },
+
+    "sellers": {
+        "sellersH1": "For Sellers",
+        "sellersh3": "Earn More:",
+        "sellersh3span": "Incremental revenue for produce you've already grown.",
+        "sellersh4": "Sell More:",
+        "sellersh4span": "Access a nationwide network of buyers in seconds.",
+        "sellersbutton": "Log as a seller"
+    },
+
+    "buyers": {
+        "buyersH1": "For Buyers",
+        "buyersh3": "Save Time:",
+        "buyersh3span": "Reduce sourcing time by up to 95%.",
+        "buyersh4": "Lower Cost:",
+        "buyersh4span": "Competitive pricing from a nationwide network.",
+        "buyersbutton": "Log as a Buyer"
+    },
+
+
+    "marketplace": {
+        "h1": "The Full Harvest Marketplace",
+        "h2": "Connecting growers with commercial produce buyers to purchase all grades of produce direct from-farm on spot, program, or contract terms.",
+        "button": "Join for free"
+    }
+
+}
